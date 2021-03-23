@@ -2,6 +2,6 @@
 
 #### Project instruction is [here](./README.original.md)
 
-***Technology Stack***
+#### Technology Stack
 - Java11
 - JUnit5.4
