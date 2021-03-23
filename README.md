@@ -1,7 +1,7 @@
-### This is an assessment project from [Tech Returners](https://www.techreturners.com/)
+### This assessment project is given by [Tech Returners](https://www.techreturners.com/)
 
-#### Project instruction is [here](https://github.com/winndie/yrtt_entry_katas_java/blob/main/README.original.md)
+#### Project instruction is [here](./README.original.md)
 
-#### Technology Stack:
+*** Technology Stack ***
 - Java11
 - JUnit5.4
